@@ -1,0 +1,54 @@
+# main links
+main:
+  - title: "Program"
+    url: /program/
+  - title: "Time schedule"
+    url: /schedule/
+  - title: "Applications"
+    url: /applications/
+  - title: "Proposals"
+    url: /proposals/
+  - title: "Practical infos"
+    url: /practical-infos/
+
+program:
+  - title: First semester
+    children:
+      - title: "Estimation"
+        url: /ue/estimation
+      - title: "Optimization"
+        url: /ue/optimisation
+      - title: "Stastistical Learning and Reinforcement Learning"
+        url: /ue/stat-learning-rl
+      - title: "Mathematical tools for control, signal and image processing"
+        url: /ue/math
+      - title: "Introduction to research"
+        url: /ue/intro-research
+      - title: "Scientific computing with Python"
+        url: /ue/scientific-python
+      - title: "Computationnal statistics Stat."
+        url: /ue/comp-stat
+      - title: "Control of multivariable linear systems"
+        url: /ue/control-of-multi-var
+      - title: "Signal processing and imaging systems"
+        url: /ue/sig-proc-im-sys
+      - title: "Stability of nonlinear systems"
+        url: /ue/nl-sys
+  - title: Second semester
+    children:
+      - title: "Advanced methods in image processing"
+        url: /ue/adv-im
+      - title: "Control for robotics"
+        url: /ue/control-robotics
+      - title: "Hybrid systems"
+        url: /ue/hybrid-sys
+      - title: "Inverse problems"
+        url: /ue/inv-problems
+      - title: "Machine Learning"
+        url: /ue/machine-learning
+      - title: "Medical imaging"
+        url: /ue/medical-im
+      - title: "Model predictive control"
+        url: /ue/predictive-control
+      - title: "Multi-agent systems"
+        url: /ue/multi-agent-sys

@@ -1,0 +1,44 @@
+---
+layout: single
+toc: true
+toc_sticky: true
+title: "Practical Informations"
+---
+
+## Location
+
+Hbar, Building 625 — Rue Joliot Curie, 91400 Orsay, France
+
+<div class="columns is-centered">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.827656044984!2d2.1695057776327134!3d48.70877497131225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f931824c241%3A0xa8e8154fa4634ed9!2s625%20-%20Hbar!5e0!3m2!1sfr!2sfr!4v1695635075316!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## Contacts
+
+- Program chairs: François Orieux and Hugues Mounier (email)
+- Secretary: Aurélien Vitoux
+
+## Paris-Saclay University
+
+- [Numerical services](https://portail.universite-paris-saclay.fr/services-numeriques/) of Paris-Saclay University.
+
+## Housing
+
+Finding an accommodation in the Paris area may take some time, so we advice
+candidates of the Master to take action well in advance.
+
+- [universite-paris-saclay.fr/vie-de-campus/logement](https://www.universite-paris-saclay.fr/vie-de-campus/logement)
+- [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr)
+
+
+## Visa
+
+If you need to apply for a Visa, you can find some information here
+
+- [universite-paris-saclay.fr/admission/etudiants-internationaux](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
+- [universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour](https://www.universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour)
+
+## Others
+
+- [Science acceuil](https://www.science-accueil.org/)
+- [Campus France](https://www.campusfrance.org/fr)
