@@ -3,6 +3,13 @@ layout: single
 title : Applications
 ---
 
+Applications for 2025—2026 are open from April 1st to July 15, 2025.
+{: .notice--info}
+
+Applications exact procedure and platform is not yet known for 2025—2026,
+information below are outdated.
+{: .notice--warning}
+
 ATSI is open to students with a first-year master degree in electrical
 engineering, data science, applied mathematics or in their last year at
 engineering school, see
@@ -18,12 +25,6 @@ in Electrical Engineering (M1
 E3A)](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique#mention)
 from Université Paris-Saclay, from which you can apply to ATSI for the second
 year.
-
-Applications for 2025—2026 are open from April 1st to July 15, 2025.
-{: .notice--info}
-
-Applications exact procedure and platform is not yet known for 2025—2026.
-{: .notice--warning}
 
 Important information regarding [registration fees](https://www.universite-paris-saclay.fr/admission/droits-dinscription) for prospective students outside the EU.
 {: .notice--warning}
