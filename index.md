@@ -29,18 +29,18 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-**ATSI** (for _Automatique, Traitement du Signal et des Images_ in french) is a
+**ATSI** (for _Automatique, Traitement du Signal et des Images_ in French) is a
 second and final year of Master degree of Université Paris-Saclay. It aims at
-giving students a training to address scientific and R&D topics in the domains
+giving students training to address scientific and R&D topics in the domains
 of
 - systems and control,
 - signal & image processing, and
-- statistical learning and related field like machine learning.
+- statistical learning and related fields like machine learning.
 
 {% include feature_row %}
 
-This _curriculum_ allows to acquire solid skills in these themes but also to
-understand interactions with other related disciplines like autonomous vehicle,
+This _curriculum_ allows acquiring solid skills in these themes but also to
+understand interactions with other related disciplines like autonomous vehicles,
 machine learning or AI, computer vision, data processing..., whether theoretical
 or applied. After graduating from ATSI, students can continue with doctoral
 studies in academic or industrial environments or pursue a job in industrial
@@ -64,7 +64,7 @@ of French scientific research capacity.
 # Supporting institutions
 
 - [Université Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images)
-- [Ecole Normale Supérieure Paris-Saclay](http://ens-paris-saclay.fr/)
+- [École Normale Supérieure Paris-Saclay](http://ens-paris-saclay.fr/)
 - [CentraleSupélec](http://www.centralesupelec.fr/)
 - [Institut d’Optique Graduate School](https://www.institutoptique.fr/)
 - Labelled by [DATAIA Institute](https://dataia.eu/) as training programs in AI.

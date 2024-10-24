@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Computational Statitics for Signal & Image Processing"
+title: "Computational Statistics for Signal & Image Processing"
 header:
   overlay_image: /assets/images/hmc.jpg
   overlay_filter: 0.3
@@ -21,12 +21,12 @@ Under development.
 
 ## Course Description
 
-This course provides an in-depth exploration of the intersection between computational statistics and machine learning with application to signal and image processing. Students will learn how statistical methodologies are applied within machine learning frameworks to develop robust, efficient, and scalable algorithms. The course covers both theoretical foundations and practical implementations, equipping students with the skills needed to analyze and interpret data using advanced statistical techniques.
+This course provides an in-depth exploration of the intersection between computational statistics and machine learning with applications to signal and image processing. Students will learn how statistical methodologies are applied within machine learning frameworks to develop robust, efficient, and scalable algorithms. The course covers both theoretical foundations and practical implementations, equipping students with the skills needed to analyze and interpret data using advanced statistical techniques.
 
 ## Outline
 
 - Stochastic Gradient
-- EM and its variates
+- EM and its variantes
 - Variational Inference & Variational Autoencoders
 - Case study : Classification with Latent Variable Models
 - Lab session : Learning linear models with nested data structures : application to orthodontic data

@@ -24,7 +24,7 @@ Hbar, Building 625 — Rue Joliot Curie, 91400 Orsay, France
 
 ## Housing
 
-Finding an accommodation in the Paris area may take some time, so we advice
+Finding an accommodation in the Paris area may take some time, so we advise
 candidates of the Master to take action well in advance.
 
 - [universite-paris-saclay.fr/vie-de-campus/logement](https://www.universite-paris-saclay.fr/vie-de-campus/logement)

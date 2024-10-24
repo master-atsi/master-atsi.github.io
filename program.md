@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-The M2 ATSI is a aims to train students with a **coherent program** to address
+The M2 ATSI aims to train students with a **coherent program** to address
 academic and industrial topics in the domains of
 - systems and control,
 - signal & image processing, and
@@ -17,7 +17,7 @@ optics, medicine, robotics, energy, automotive...
 
 <!-- Curriculum also trains student to research work through dedicated teaching -->
 <!-- initiatives (seminars, bibliographic work, project, etc.) and a strong -->
-<!-- involvement of the associated research laboratories. Part of the training may be -->
+<!-- Involvement of the associated research laboratories. Part of the training may be -->
 <!-- given in English. -->
 
 
@@ -34,12 +34,12 @@ optics, medicine, robotics, energy, automotive...
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
 
 The core syllabus covers the concepts that are common to and essential for all
-the subject covered in the master's program, whatever their orientation in
+the subjects covered in the master's program, whatever their orientation in
 control or signal-image.
 
 - [Estimation](/ue/estimation)
 - [Optimization](/ue/optimisation)
-- [Stastistical Learning and Reinforcement Learning](/ue/stat-learning-rl)
+- [Statistical Learning and Reinforcement Learning](/ue/stat-learning-rl)
 
 and
 
@@ -52,7 +52,7 @@ and
 
 ### Two elective courses among four
 
-- [Computationnal statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
+- [Computational statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
 - [Control of multivariable linear systems](/ue/control-of-multi-var) {% include control.button -%}
 - [Signal processing and imaging systems](/ue/sig-proc-im-sys) {% include sig.button %} {% include im.button -%}
 - [Stability of nonlinear systems](/ue/nl-sys) {% include control.button %}
@@ -62,7 +62,7 @@ and
 
 ### Four elective courses among height
 
-Students must choose four electives courses among height
+Students must choose four elective courses among height
 
 - [Advanced methods in image processing](/ue/adv-im) {% include im.button %} {% include stat.button -%}
 - [Control for robotics](/ue/control-robotics) {% include control.button -%}

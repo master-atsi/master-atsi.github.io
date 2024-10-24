@@ -6,17 +6,17 @@ sidebar:
     image_alt: "image"
 ---
 
-Signal and Image processing are historicaly at the fundation of the Master. The
-master cover the problems of signal modeling, processing, restauration and
-reconstruction. It's also adresse Computer Vision topics.
+Signal and Image processing are historically at the foundation of the Master. The
+master cover the problems of signal modeling, processing, restoration and
+reconstruction. It also addresses Computer Vision topics.
 
-In addition to the mandatory core courses, see the [program](/program), this
-topics are adressed in the following course units.
+In addition to the mandatory core courses, see the [program](/program), these
+topics are addressed in the following course units.
 
 ## First semester
 
 
-- [Computationnal statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
+- [Computational statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
 - [Signal processing and imaging systems](/ue/sig-proc-im-sys) {% include sig.button %} {% include im.button -%}
 - [Scientific computing with Python](/ue/scientific-python)
 

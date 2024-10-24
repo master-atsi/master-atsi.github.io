@@ -37,10 +37,10 @@ Important information regarding [registration fees](https://www.universite-paris
 - CV
 - Motivation letter
 - Identity document
-- B2 certificat for foreign students
+- B2 certificate for foreign students
 
 ## Scholarships and grants
 
-- [Université Paris-Saclay International Master’s Scholarship Programme](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master).
+- [  Paris-Saclay International Master’s Scholarship Programme](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master).
 - [Eiffel Scholarship Program of Excellence](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence).
 - Information on other scholarship programs on [Campus France](http://campusbourses.campusfrance.org/fria/bourse/#/catalog).

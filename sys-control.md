@@ -6,11 +6,11 @@ sidebar:
     image_alt: "image"
 ---
 
-Systems and control are, with signal and image processing historicaly at the
-fundation of the Master.
+Systems and control are, with signal and image processing historically at the
+foundation of the Master.
 
-In addition to the mandatory core courses, see the [program](/program), this
-topics are adressed in
+In addition to the mandatory core courses, see the [program](/program), these
+topics are addressed in
 
 ## First semester
 
