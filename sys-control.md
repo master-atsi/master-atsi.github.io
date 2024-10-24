@@ -14,8 +14,13 @@ topics are adressed in
 
 ## First semester
 
-- Control of multivariable linear systems {% include control.button %} - Stability of nonlinear systems {% include control.button %} - Scientific computing in Python {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}
+- [Control of multivariable linear systems](/ue/control-of-multi-var) {% include control.button -%}
+- [Stability of nonlinear systems](/ue/nl-sys) {% include control.button -%}
+- [Scientific computing with Python](/ue/scientific-python) {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}
 
 ## Second semester
 
-- Hybrid systems {% include control.button %} - Model predictive control {% include control.button %} - Control for robotics {% include control.button %} - Multi-agent systems {% include control.button %}
+- [Control for robotics](/ue/control-robotics) {% include control.button -%}
+- [Hybrid systems](/ue/hybrid-sys) {% include control.button -%}
+- [Model predictive control](/ue/predictive-control) {% include control.button -%}
+- [Multi-agent systems](/ue/multi-agent-sys) {% include control.button %}

@@ -12,16 +12,20 @@ discipline like computer visio or machine learning.
 
 In addition to the core courses {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
 
-- Stastistical Learning and Reinforcement Learning
-- Estimation
-- Optimization
+- [Estimation](/ue/estimation)
+- [Optimization](/ue/optimisation)
+- [Stastistical Learning and Reinforcement Learning](/ue/stat-learning-rl)
 
 the master program teach or use aspect of statistical learning in the following unit
 
 ### First semester
 
-- Computationnal statistics {% include sig.button %}{% include im.button %}{% include stat.button %} - Scientific computing in Python {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
+- [Scientific computing with Python](/ue/scientific-python) {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button -%}
+- [Computationnal statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button %}
 
 ### Second Semester
 
-- Machine Learning {% include im.button %}{% include stat.button %} - Medical imaging {% include im.button %}{% include stat.button %} - Advanced methods in image processing {% include im.button %}{% include stat.button %} - Inverse problems <a href="signal-image-proc" class="btn btn--info btn--small">Signal</a> {% include im.button %}{% include stat.button %}
+- [Advanced methods in image processing](/ue/adv-im) {% include im.button %} {% include stat.button -%}
+- [Inverse problems](/ue/inv-problems) {% include sig.button %} {% include im.button %} {% include stat.button -%}
+- [Machine Learning](/ue/machine-learning) {% include im.button %} {% include stat.button -%}
+- [Medical imaging](/ue/medical-im) {% include im.button %} {% include cv.button %}
