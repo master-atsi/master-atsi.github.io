@@ -15,6 +15,10 @@ The courses focus on methodological foundations and recent developments in these
 fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
+
+the following program starts for the start of the 2025-2026 academic year.
+{: .notice--warning}
+
 <!-- Curriculum also trains student to research work through dedicated teaching -->
 <!-- initiatives (seminars, bibliographic work, project, etc.) and a strong -->
 <!-- Involvement of the associated research laboratories. Part of the training may be -->
