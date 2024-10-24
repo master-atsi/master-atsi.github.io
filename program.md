@@ -16,7 +16,7 @@ fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
 
-the following program starts for the start of the 2025-2026 academic year.
+The following program starts for the start of the 2025-2026 academic year.
 {: .notice--warning}
 
 <!-- Curriculum also trains student to research work through dedicated teaching -->
