@@ -16,7 +16,7 @@ fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
 
-The following program starts for the start of the 2025-2026 academic year.
+The following program starts for the 2025-2026 academic year.
 {: .notice--warning}
 
 <!-- Curriculum also trains student to research work through dedicated teaching -->
@@ -80,4 +80,4 @@ Students must choose four elective courses among height
 ### Internship
 
 Minimum duration of 4 months between April and August in academic or industrial
-environment.
+environment, with a report and a defense.
