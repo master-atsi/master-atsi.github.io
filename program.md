@@ -5,6 +5,9 @@ toc: true
 toc_sticky: true
 ---
 
+This new following program starts for the 2025-2026 academic year.
+{: .notice--warning}
+
 The M2 ATSI aims to train students with a **coherent program** to address
 academic and industrial topics in the domains of
 - systems and control,
@@ -16,8 +19,6 @@ fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
 
-The following program starts for the 2025-2026 academic year.
-{: .notice--warning}
 
 <!-- Curriculum also trains student to research work through dedicated teaching -->
 <!-- initiatives (seminars, bibliographic work, project, etc.) and a strong -->
