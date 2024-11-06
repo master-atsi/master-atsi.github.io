@@ -10,13 +10,12 @@ title: "Time schedule"
 {: refdef}
 
 The sheets are
-- *S1-Sched* : The schedule for the first semester
-- *S2-Sched* : The schedule for the second semester
-- *ER (MCC)* : Exams Rules
-- *Teachers* : Teachers responsible of the various couurses
-- *ATSI-CCR* : Course Choice Rules for plain M2 ATSI students and ENS engineering school students
-- *ATSI/CS CCR* : Course Choice Rules for students in double diploma with CentraleSupélec engineering school
-- *ATSI/IOGS CCR* : Course Choice Rules for students in double diploma with IOGS engineering school
+- *S1-Sched* : first semester
+- *S2-Sched* : second semester
+- *ER (MCC)* : Exams rules
+- *ATSI-CCR* : Choice rules for plain M2 ATSI and ENS students
+- *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec
+- *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS
 
 The [seminar program](https://centralesupelec-my.sharepoint.com/:w:/g/personal/francois_orieux_centralesupelec_fr/EZze_I-_gHpCvsXfTRSIAvQBtFGiOExGN-YNCysSMKR4Hg?e=COMW1z) for 2024-2025.
 
