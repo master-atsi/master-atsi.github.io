@@ -3,7 +3,7 @@ layout: single
 title : Applications
 ---
 
-Applications for 2025—2026 are open from April 1st to July 15, 2025.
+Applications for 2025—2026 are open from February 1st to July 20, 2025.
 {: .notice--info}
 
 Applications exact procedure and platform is not yet known for 2025—2026,
