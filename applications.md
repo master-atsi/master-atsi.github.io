@@ -7,7 +7,7 @@ Applications for 2025—2026 are open from February 1st to July 20, 2025.
 {: .notice--info}
 
 Applications exact procedure and platform is not yet known for 2025—2026,
-information below are outdated. Asked documents **are not** outdated.
+information below are outdated. Required documents **are not** outdated.
 {: .notice--warning}
 
 ATSI is open to students with a first-year master degree in electrical
@@ -29,7 +29,7 @@ year.
 Important information regarding [registration fees](https://www.universite-paris-saclay.fr/admission/droits-dinscription) for prospective students outside the EU.
 {: .notice--warning}
 
-## Asked documents
+## Required documents
 
 - Grades since high school diploma included
 - Last year's ranking if available
@@ -41,6 +41,6 @@ Important information regarding [registration fees](https://www.universite-paris
 
 ## Scholarships and grants
 
-- [  Paris-Saclay International Master’s Scholarship Programme](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master).
+- [Paris-Saclay International Master’s Scholarship Programme](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master).
 - [Eiffel Scholarship Program of Excellence](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence).
 - Information on other scholarship programs on [Campus France](http://campusbourses.campusfrance.org/fria/bourse/#/catalog).
