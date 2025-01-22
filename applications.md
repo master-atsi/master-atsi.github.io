@@ -6,15 +6,12 @@ title : Applications
 Applications for 2025—2026 are open from February 1st to July 20, 2025.
 {: .notice--info}
 
-Applications exact procedure and platform is not yet known for 2025—2026,
-information below are outdated. Required documents **are not** outdated.
-{: .notice--warning}
-
 ATSI is open to students with a first-year master degree in electrical
 engineering, data science, applied mathematics or in their last year at
 engineering school, see
-[requirements(en)](https://www.universite-paris-saclay.fr/en/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et#modalites)
-[[francais]((https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et#modalites))].
+[requirements(en)](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-control-signal-and-image-processing#modalites)
+[[francais]((https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images#modalites))].
+
 
 Application must be made through the
 [website](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay)
@@ -31,8 +28,8 @@ Important information regarding [registration fees](https://www.universite-paris
 
 ## Required documents
 
-- Grades since high school diploma included
 - Last year's ranking if available
+- Grades since high school diploma included
 - Certificate of graduation
 - CV
 - Motivation letter
