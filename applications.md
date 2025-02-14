@@ -3,7 +3,7 @@ layout: single
 title : Applications
 ---
 
-Applications for 2025—2026 are open from February 1st to July 20, 2025.
+Applications for 2025—2026 are open from March 1st to July 20, 2025.
 {: .notice--info}
 
 ATSI is open to students with a first-year master degree in electrical
