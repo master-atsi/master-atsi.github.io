@@ -2,8 +2,12 @@
 layout: single
 toc: true
 toc_sticky: true
-title: "Practical Informations"
+title: "Back to school and practical Informations"
 ---
+
+## The back-to-school amphitheatre
+
+The back-to-school amphitheater will be held on Friday, September 5.
 
 ## Location
 
