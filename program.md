@@ -51,10 +51,6 @@ and
 - [Introduction to research](/ue/intro-research)
 - [Mathematical tools for control, signal and image processing](/ue/math)
 
-### Optional
-
-- [Scientific computing with Python](/ue/scientific-python)
-
 ### Two elective courses among four
 
 - [Computational statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
@@ -64,6 +60,10 @@ and
 
 
 ## Second Semester
+
+### To precise
+
+- [Scientific computing with Python](/ue/scientific-python)
 
 ### Four elective courses among height
 
