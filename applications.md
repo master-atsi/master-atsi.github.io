@@ -15,7 +15,7 @@ engineering school, see
 
 Application must be made through the
 [website](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay)
-of Université Paris-Saclay .
+of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay) .
 
 If you want to apply for the first year of a Master program, check the [Master
 in Electrical Engineering (M1
