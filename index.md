@@ -37,6 +37,9 @@ of
 - signal & image processing, and
 - statistical learning and related fields like machine learning.
 
+The back-to-school amphitheater will be held on Friday, September 5, 2025.
+{: .notice--warning}
+
 {% include feature_row %}
 
 This _curriculum_ allows acquiring solid skills in these themes but also to
