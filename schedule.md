@@ -6,7 +6,8 @@ title: "Time schedule"
 <!-- qrencode -o atsi-schedule.png --foreground=0000FF "http://master-atsi.github.io/schedule" -->
 
 {:refdef: style="text-align: center;"}
-<a href="https://docs.google.com/spreadsheets/d/1242nHwL-9XjZg6BzS5yhmcVLw7yZzoM6mrhu8z6oE68/" target="_blank" title="Click to see"><img src="/assets/images/atsi-schedule.png" alt="QR code of ATSI time schedule" style="height:200px;"></a>
+<!-- <a href="https://docs.google.com/spreadsheets/d/1242nHwL-9XjZg6BzS5yhmcVLw7yZzoM6mrhu8z6oE68/" target="_blank" title="Click to see"><img src="/assets/qr-goto-edt-atsi.png" alt="QR code of ATSI time schedule" style="height:200px;"></a> -->
+<a href="https://master-atsi.github.io/goto-schedule" target="_blank" title="Click to see"><img src="/assets/qr-goto-edt-atsi.png" alt="QR code of ATSI time schedule" style="height:200px;"></a>
 {: refdef}
 
 The sheets are
