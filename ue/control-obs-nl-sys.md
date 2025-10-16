@@ -1,9 +1,12 @@
 ---
 layout: single
-title: "Control for Robotics"
+title: "Control and observation for nonlinear systems"
 sidebar:
   - title: "Teacher"
-    text: "Hugues Mounier"
+    text: |
+      - Sette DIOP
+      - Alessio IOVINE
+      - Lucas BRIVADIS
   - title: "Hours"
     text: "24h CM/TD"
 ---

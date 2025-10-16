@@ -63,14 +63,14 @@ and
 
 ### To precise
 
-- [Scientific computing with Python](/ue/scientific-python)
+- [Numerical computation](/ue/num-comp)
 
 ### Four elective courses among height
 
 Students must choose four elective courses among height
 
 - [Advanced methods in image processing](/ue/adv-im) {% include im.button %} {% include stat.button -%}
-- [Control for robotics](/ue/control-robotics) {% include control.button -%}
+- [Control and observation for nonlinear systems](/ue/control-obs-nl-sys) {% include control.button -%}
 - [Hybrid systems](/ue/hybrid-sys) {% include control.button -%}
 - [Inverse problems](/ue/inv-problems) {% include sig.button %} {% include im.button %} {% include stat.button -%}
 - [Machine Learning](/ue/machine-learning) {% include im.button %} {% include stat.button -%}
