@@ -20,7 +20,7 @@ topics are addressed in
 
 ## Second semester
 
-- [Control for robotics](/ue/control-robotics) {% include control.button -%}
+- [Control and observation for nonlinear systems](/ue/control-obs-nl-sys) {% include control.button -%}
 - [Hybrid systems](/ue/hybrid-sys) {% include control.button -%}
 - [Model predictive control](/ue/predictive-control) {% include control.button -%}
 - [Multi-agent systems](/ue/multi-agent-sys) {% include control.button %}

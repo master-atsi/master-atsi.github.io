@@ -13,17 +13,19 @@ sidebar:
 
 {% include control.button %}
 
-This course aims to provide students with the basics of some trajectory tracking
-control methods with applications to robotics, but also to biological systems.
-The methodological techniques will be those of the differential flatness,
-particularly adapted to the synthesis of control ensuring the tracking of
-trajectories. The course is divided into two parts.
+This course provides a rigorous introduction to the analysis and design of control systems for nonlinear dynamics, with a focus on both state feedback and output feedback techniques. Key topics include classical ones as feedback linearization, flatness-based control, backstepping and sliding mode. The course also addresses observability in nonlinear systems, introducing tools such as the Extended Kalman Filter and advanced observer designs. Modern nonlinear design methods such as feedforward and passivity-based control are also covered. The course combines theoretical foundations with practical methodologies to equip students with versatile tools for nonlinear system control. Examples from mechanical systems and electrical systems will be provided.
 
-- In the first part, theoretical notions are developed and illustrated through examples and tutorials.
-- In the second part, about twenty case studies, based on articles in the literature, are proposed to the students. For each system studied, one or more models are selected and for each, the differentially flat character is examined, a flat output is determined and a trajectory tracking is implemented in python language.
+## Course content
+
+-  Fundamentals and Motivation – Nonlinear system behavior, stabilization and tracking, gain scheduling approaches.
+-  Feedback Linearization and Flatness – Input–output linearization, zero dynamics, and flatness-based control design.
+-  Observability and State Estimation – Nonlinear observability concepts, Extended Kalman Filter, and KKL observers.
+-  Output Feedback and Advanced Observer Design – High-gain and sliding-mode observers for control implementation.
+-  Modern Nonlinear Control Techniques – Backstepping, feedforward, passivity-based, and adaptive control methods.
+
 
 ## References
 
-1. J. Levine, Analysis and Control of Nonlinear Systems: A Flatness based
-Approach, Springer, 2009
-2. H. Sira-Ramirez, S.K. Agrawal, Differentially Flat Systems, CRC Press, 2018
+- Khalil, H. K. (2002). Nonlinear Systems (3rd ed.). Upper Saddle River, NJ: Prentice Hall.
+- Isidori, A. (1995). Nonlinear Control Systems (3rd ed.). London, UK: Springer-Verlag.
+- Slotine, J.-J. E., \& Li, W. (1991). Applied Nonlinear Control. Englewood Cliffs, NJ: Prentice Hall.
