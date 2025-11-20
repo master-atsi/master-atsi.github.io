@@ -20,7 +20,7 @@ Hbar, Building 625 — Rue Joliot Curie, 91400 Orsay, France
 ## Contacts
 
 - Program chairs: François Orieux and Hugues Mounier (email)
-- Secretary: Claire Dong
+- Secretary: Emmanuel Ghomsi Ghomsi (interim)
 
 ## Paris-Saclay University
 
