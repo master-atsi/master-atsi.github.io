@@ -8,15 +8,12 @@ sidebar:
 
 {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}
 
-Under development.
-{: .notice--warning}
-
 ## Course Description
 
-This course adress modern python practices and tools for scientific and
-numerical computations. It covers all aspect of the master, from control, signal
-and image processing and statistical learning and serve has a support for more
-advanced use in the rest of the program. Students will learn how to use
+This course address modern python practices and tools for scientific and
+numerical computations. It covers all aspects of the master, from control,
+signal and image processing and statistical learning and serve has a support for
+more advanced use in the rest of the program. Students will learn how to use
 potential of python and the widely used library. The courses suppose a minimal
 knowledge in programming and python language. Teaching is mainly done in the
 form of practical courses.
@@ -25,15 +22,13 @@ form of practical courses.
 
 - Advanced refresher course
   - Classes and OOP, types, interpreter, scientific stack
-  - Project gestion, reproducibility, numerical format
-  - Visualisation
-  - Modern tools
+  - Project management, reproducibility, numerical format
+  - Modern tooling
 - Linear algebra
 - Optimisation resolution problem
 - ODE resolution
-- Image processing, signal processing, signal representation and transformation
-- Accelleration and paralelisation
-- Statistical analysis
+- Image & signal processing, signal representation and transformation
+- Acceleration and parallelisation
 - Symbolic computation
 
 ## References
