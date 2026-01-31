@@ -10,10 +10,6 @@ sidebar:
 
 {% include sig.button %} {% include im.button %}
 
-Here is the English translation:
-
----
-
 **Image acquisition / radiometry / color imaging / high dynamic range imaging (6h + 3h lab):**
 
 This course introduces the fundamentals of image acquisition. A complete mathematical modeling of the acquisition process is presented, with particular emphasis on 2D sampling and precise noise modeling. Representations of color and the radiometric content of images are detailed, along with a brief introduction to optimal transport. This section continues with several applications in computational photography, notably high dynamic range (HDR) imaging, and concludes with a practical lab session.
