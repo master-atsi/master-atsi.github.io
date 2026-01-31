@@ -7,8 +7,6 @@ sidebar:
       - Sette DIOP
       - Alessio IOVINE
       - Lucas BRIVADIS
-  - title: "Hours"
-    text: "24h CM/TD"
 ---
 
 {% include control.button %}

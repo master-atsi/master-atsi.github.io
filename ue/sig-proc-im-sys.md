@@ -4,10 +4,6 @@ title: "Signal Processing and Imaging Systems"
 sidebar:
   - title: "Teacher"
     text: "François Goudail"
-  - title: "Location"
-    text: "IOGS"
-  - title: "Hours"
-    text: "18h CM + 9h TD-TP"
 ---
 
 {% include sig.button %} {% include im.button %}

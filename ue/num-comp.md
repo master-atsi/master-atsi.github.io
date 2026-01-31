@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Scientific compution with Python"
+title: "Numerical computation"
 sidebar:
   - title: "Teacher"
     text: "François Orieux"
-  - title: "Hours"
-    text: "12h TP"
 ---
 
 {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}
@@ -36,7 +34,6 @@ form of practical courses.
 - Image processing, signal processing, signal representation and transformation
 - Accelleration and paralelisation
 - Statistical analysis
-- Machine learning
 - Symbolic computation
 
 ## References

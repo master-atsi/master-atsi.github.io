@@ -2,12 +2,10 @@
 layout: single
 title: "Mathematical tools for control, signal and image processing"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
        - Christophe Vignat
        - Alexis Aravanis
-  - title: "Hours"
-    text: "24h CM"
 ---
 
 {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}

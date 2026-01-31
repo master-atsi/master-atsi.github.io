@@ -2,10 +2,8 @@
 layout: single
 title: "Machine Learning"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: "Stéphane Herbin"
-  - title: "Hours"
-    text: "12h CM + 18h TD-TP"
 ---
 
 {% include im.button %} {% include stat.button %} {% include cv.button %}

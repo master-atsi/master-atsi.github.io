@@ -2,13 +2,10 @@
 layout: single
 title: "Medical Imaging"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - Florent Sureau
       - Ciuciu Philippe
-      - Comtat Claude
-  - title: "Hours"
-    text: "24h CM"
 ---
 
 {% include im.button %} {% include cv.button %}

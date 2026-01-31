@@ -2,12 +2,11 @@
 layout: single
 title: "Stability of nonlinear systems"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - Antoine Chaillet
       - Giorgio Valmorbida
-  - title: "Hours"
-    text: "24h CM"
+      - Alessio Iovine
 ---
 
 {% include control.button %}

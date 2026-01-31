@@ -2,10 +2,10 @@
 layout: single
 title: "Hybrid Systems"
 sidebar:
-  - title: "Teacher"
-    text: "Luca Greco"
-  - title: "Hours"
-    text: "18h CM + 9h TD-TP"
+  - title: "Teachers"
+    text: |
+      - Luca Greco
+      - Antoine Girard
 ---
 
 {% include control.button %}

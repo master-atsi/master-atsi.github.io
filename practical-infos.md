@@ -7,7 +7,7 @@ title: "Back to school and practical Informations"
 
 ## The back-to-school amphitheatre
 
-The back-to-school amphitheater will be held on Friday, September 5.
+The back-to-school amphitheater will be held on Friday, September 7 morning.
 
 ## Location
 
@@ -19,8 +19,8 @@ Hbar, Building 625 — Rue Joliot Curie, 91400 Orsay, France
 
 ## Contacts
 
-- Program chairs: François Orieux and Hugues Mounier (email)
-- Secretary: Emmanuel Ghomsi Ghomsi (interim)
+- Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Hugues Mounier](mailto:hugues.mounier@universite-paris-saclay.fr)
+- Secretary: [Emmanuel Ghomsi Ghomsi (interim)](mailto:emmanuel.ghomsi-ghomsi@universite-paris-saclay.fr)
 
 ## Paris-Saclay University
 
@@ -41,6 +41,10 @@ If you need to apply for a Visa, you can find some information here
 
 - [universite-paris-saclay.fr/admission/etudiants-internationaux](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
 - [universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour](https://www.universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour)
+
+## Computer
+
+We recommend that you bring your own personal computer. Computer rooms are also available, and as a last resort, a few laptops are available to borrow free of charge, subject to availability.
 
 ## Others
 

@@ -4,8 +4,6 @@ title: "Model Predictive Control"
 sidebar:
   - title: "Teacher"
     text: "Sorin Olaru"
-  - title: "Hours"
-    text: "18h CM + 9h TD-TP"
 ---
 
 {% include control.button %}

@@ -3,7 +3,7 @@ layout: single
 title : Applications
 ---
 
-Applications for 2025—2026 are open from March 1st to July 20, 2025.
+Applications for 2026—2027 are open from March 1st to July 20, 2026.
 {: .notice--info}
 
 ATSI is open to students with a first-year master degree in electrical
@@ -28,7 +28,7 @@ Important information regarding [registration fees](https://www.universite-paris
 
 ## Required documents
 
-- Last year's ranking if available
+- Last year's ranking _if available_
 - Grades since high school diploma included
 - Certificate of graduation
 - CV

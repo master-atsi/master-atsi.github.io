@@ -10,4 +10,4 @@ If you would like to propose an internship, thesis, seminars or project please
 
 ## For students
 
-Proposals are listed [here](https://centralesupelec-my.sharepoint.com/:f:/g/personal/francois_orieux_centralesupelec_fr/Elx9tBoQ_btPhNq36zAfw5wBtueXF01HDuw-5Yb9JTsL_Q?e=urlTmU) (password protected).
+Proposals are listed on eCampus.

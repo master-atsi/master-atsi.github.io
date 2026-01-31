@@ -4,8 +4,6 @@ title: "Estimation"
 sidebar:
   - title: "Teacher"
     text: "Michel Kieffer"
-  - title: "Hours"
-    text: "24h CM"
 ---
 
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
@@ -33,4 +31,3 @@ accuracy ?
 1. S. M. Kay, Fundamentals of Statistical Processing, Volume I: Estimation Theory, Prentice Hall, 1993.
 2. E. Walter and L. Pronzato, Identification of Parametric Models: From Experimental Data, Springer, 1997.
 3. E. Walter, Numerical methods and optimization: a consumer guide, Springer, 2014.
-4. L. Ljung a

@@ -35,7 +35,7 @@ giving students training to address scientific and R&D topics in the domains
 of
 - systems and control,
 - signal & image processing, and
-- statistical learning and related fields like machine learning.
+- the foundations of machine learning with statistical learning, estimation or optimisation.
 
 The back-to-school amphitheater will be held on Friday, September 5, 2025.
 {: .notice--warning}

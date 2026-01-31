@@ -2,12 +2,10 @@
 layout: single
 title: "Optimization"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - Jean-Christophe Pesquet
       - Laurent Le Brusquet
-  - title: "Hours"
-    text: "15h CM + 13.5h TD-TP"
 ---
 
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}

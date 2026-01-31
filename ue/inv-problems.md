@@ -2,12 +2,10 @@
 layout: single
 title: "Inverse problems"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - Thomas Rodet
       - Charles Soussen
-  - title: "Hours"
-    text: "18h CM + 9h TD-TP"
 ---
 
 {% include sig.button %} {% include im.button %} {% include stat.button %}

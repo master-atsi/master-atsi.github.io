@@ -4,8 +4,6 @@ title: "Multi-Agent Systems"
 sidebar:
   - title: "Teacher"
     text: "Ioannis Saras"
-  - title: "Hours"
-    text: "18h CM + 9h TD-TP"
 ---
 
 {% include control.button %}

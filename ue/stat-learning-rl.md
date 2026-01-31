@@ -2,12 +2,10 @@
 layout: single
 title: "Stastistical Learning and Reinforcement Learning"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - Xujia Zhu
       - Michel Kieffer
-  - title: "Hours"
-    text: "12h CM + 12h TD-TP"
 ---
 
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}

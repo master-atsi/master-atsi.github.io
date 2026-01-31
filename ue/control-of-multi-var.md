@@ -2,12 +2,10 @@
 layout: single
 title: "Control of multivariable linear systems"
 sidebar:
-  - title: "Teacher"
+  - title: "Teachers"
     text: |
       - [Sihem Tebbani](mailto:sihem.tebbani@centralesupelec.fr)
       - [Caroline Kulcsar](mailto:caroline.kulcsar@institutoptique.fr)
-  - title: "Hours"
-    text: "20h CM + 6h TD-TP"
 ---
 
 {% include control.button %}

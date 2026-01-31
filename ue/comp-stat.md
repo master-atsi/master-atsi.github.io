@@ -9,8 +9,6 @@ sidebar:
     text: |
       - Nabil El Korso
       - François Orieux
-  - title: "Hours"
-    text: "24h CM"
 ---
 
 {% include sig.button %} {% include im.button %} {% include stat.button %}
@@ -37,4 +35,3 @@ This course provides an in-depth exploration of the intersection between computa
 - Lab session
 
 ## References
-

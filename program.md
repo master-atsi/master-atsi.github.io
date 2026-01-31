@@ -5,14 +5,14 @@ toc: true
 toc_sticky: true
 ---
 
-This new following program starts for the 2025-2026 academic year.
-{: .notice--warning}
+<!-- This new following program starts for the 2025-2026 academic year. -->
+<!-- {: .notice--warning} -->
 
 The M2 ATSI aims to train students with a **coherent program** to address
 academic and industrial topics in the domains of
 - systems and control,
 - signal & image processing, and
-- statistical learning and related field like machine learning.
+- the foundations of machine learning with statistical learning, estimation or optimisation.
 
 The courses focus on methodological foundations and recent developments in these
 fields, which intervene directly or indirectly in many disciplines such as
@@ -34,40 +34,36 @@ optics, medicine, robotics, energy, automotive...
 
 ## First Semester
 
-### Mandatory courses
-
-{% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
-
 The core syllabus covers the concepts that are common to and essential for all
 the subjects covered in the master's program, whatever their orientation in
 control or signal-image.
+
+{% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
+
+### Bloc 1 — Mandatory courses — Refresher course & introduction to research
+
+- [Introduction to research](/ue/intro-research)
+- [Mathematical tools for control, signal and image processing](/ue/math)
+- [Numerical computation](/ue/num-comp)
+
+### Bloc 2 — Mandatory courses — Core and foundations
 
 - [Estimation](/ue/estimation)
 - [Optimization](/ue/optimisation)
 - [Statistical Learning and Reinforcement Learning](/ue/stat-learning-rl)
 
-and
-
-- [Introduction to research](/ue/intro-research)
-- [Mathematical tools for control, signal and image processing](/ue/math)
-
-### Two elective courses among four
+### Bloc 3 — Specialisation — Two elective courses among four
 
 - [Computational statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
 - [Control of multivariable linear systems](/ue/control-of-multi-var) {% include control.button -%}
 - [Signal processing and imaging systems](/ue/sig-proc-im-sys) {% include sig.button %} {% include im.button -%}
 - [Stability of nonlinear systems](/ue/nl-sys) {% include control.button %}
 
-
 ## Second Semester
 
-### To precise
+### Bloc 4 — Four elective courses among height — Track
 
-- [Numerical computation](/ue/num-comp)
-
-### Four elective courses among height
-
-Students must choose four elective courses among height
+Students must choose four elective courses among height, in parallel with project work and bibliographic research
 
 - [Advanced methods in image processing](/ue/adv-im) {% include im.button %} {% include stat.button -%}
 - [Control and observation for nonlinear systems](/ue/control-obs-nl-sys) {% include control.button -%}
@@ -78,7 +74,7 @@ Students must choose four elective courses among height
 - [Model predictive control](/ue/predictive-control) {% include control.button -%}
 - [Multi-agent systems](/ue/multi-agent-sys) {% include control.button %}
 
-### Internship
+## Internship - Bloc 5
 
 Minimum duration of 4 months between April and August in academic or industrial
 environment, with a report and a defense.
