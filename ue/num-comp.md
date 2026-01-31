@@ -30,5 +30,3 @@ form of practical courses.
 - Image & signal processing, signal representation and transformation
 - Acceleration and parallelisation
 - Symbolic computation
-
-## References
