@@ -74,7 +74,7 @@ Students must choose four elective courses among height, in parallel with projec
 - [Model predictive control](/ue/predictive-control) {% include control.button -%}
 - [Multi-agent systems](/ue/multi-agent-sys) {% include control.button %}
 
-## Internship - Bloc 5
+## Bloc 5 — Internship
 
 Minimum duration of 4 months between April and August in academic or industrial
 environment, with a report and a defense.
