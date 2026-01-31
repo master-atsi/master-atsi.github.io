@@ -23,8 +23,8 @@ feature_row:
     btn_class: "btn--inverse"
   - url: /stat-learning
     image_path: /assets/images/illustrations/neural-net-resized.png
-    alt: "Statistical learning"
-    title: "Statistical learning"
+    alt: "Statistical learning and AI"
+    title: "Statistical learning and AI"
     btn_label: "More details"
     btn_class: "btn--inverse"
 ---
