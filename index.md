@@ -37,7 +37,7 @@ of
 - signal & image processing, and
 - the foundations of machine learning with statistical learning, estimation or optimisation.
 
-The back-to-school amphitheater will be held on Friday, September 5, 2025.
+The back-to-school amphitheater will be held on Friday, September 4, 2026.
 {: .notice--warning}
 
 {% include feature_row %}
