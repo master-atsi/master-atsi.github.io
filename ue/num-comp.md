@@ -2,7 +2,7 @@
 layout: single
 title: "Numerical computation"
 header:
-  overlay_image: /assets/num-comp-im.jpg
+  overlay_image: /assets/images/illustrations/num-comp-im.jpg
   overlay_filter: 0.3
 sidebar:
   - title: "Teacher"

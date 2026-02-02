@@ -28,7 +28,7 @@ The sheets are
 ## Seminars program
 
 <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?themeAppearance=light&themeSyncWithOs=false&embed=true&style=singlePage"
-        height="400" width="100%" frameborder="0">
+        height="350" width="100%" frameborder="0">
 </iframe>
 
 ## Reglementation, docs, forms, ...
