@@ -19,7 +19,7 @@ The sheets are
 - *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS
 
 <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?embed=true"
-        height="500" width="100%" frameborder="0">
+        height="400" width="100%" frameborder="0">
 </iframe>
 
 <!-- Also possible with a redirection -->
