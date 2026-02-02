@@ -10,9 +10,6 @@ sidebar:
 
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
 
-Under development.
-{: .notice--warning}
-
 ## Course objective
 
 The first part of this course will present modern statistical methods for data
