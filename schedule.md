@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "Time schedule"
+toc: true
+toc_sticky: true
 ---
+
+## Schedule
 
 <!-- qrencode -o atsi-schedule.png --foreground=0000FF "http://master-atsi.github.io/schedule" -->
 
@@ -18,13 +22,22 @@ The sheets are
 - *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec
 - *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS
 
+## Seminars program
+
 <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?embed=true"
         height="400" width="100%" frameborder="0">
 </iframe>
 
-<!-- Also possible with a redirection -->
-<!-- <!DOCTYPE html> -->
-<!-- <meta charset="utf-8"> -->
-<!-- <title>Redirecting to https://example.com/</title> -->
-<!-- <meta http-equiv="refresh" content="0; URL=https://example.com/"> -->
-<!-- <link rel="canonical" href="https://example.com/"> -->
+## Below and above are accessible here
+
+https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/
+
+## Reglementation, docs, forms, ...
+
+<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27?embed=true"
+        height="300" width="100%" frameborder="0">
+</iframe>
+
+<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?embed=true"
+        height="300" width="100%" frameborder="0">
+</iframe>

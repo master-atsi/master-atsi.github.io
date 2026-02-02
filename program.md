@@ -23,12 +23,6 @@ optics, medicine, robotics, energy, automotive...
 
 
 
-<!-- Curriculum also trains student to research work through dedicated teaching -->
-<!-- initiatives (seminars, bibliographic work, project, etc.) and a strong -->
-<!-- Involvement of the associated research laboratories. Part of the training may be -->
-<!-- given in English. -->
-
-
 <!-- - Detailed description of the courses are availble in [French](/Description-Formation-Master-EEEA-2023-2024-UE-Francais.pdf) or -->
 <!-- [English](/Description-Formation-Master-EEEA-2023-2024-UE-Anglais-1.pdf). -->
 <!-- - [The skills assessment procedures](/MCCs-2023-2024.pdf). -->
@@ -81,3 +75,7 @@ Students must choose four elective courses among height, in parallel with projec
 
 Minimum duration of 4 months between April and August in academic or industrial
 environment, with a report and a defense.
+
+## Remarks
+
+Curriculum trains student to research work through dedicated teaching initiatives (seminars, bibliographic work, project, etc.) and a strong Involvement of the associated research laboratories. Part of the training may be given in English.
