@@ -2,7 +2,7 @@
 layout: single
 title: "Stability of nonlinear systems"
 header:
-  overlay_image: /assets/images/nl.jpg
+  overlay_image: /assets/images/illustrations/nl.jpg
   overlay_filter: 0.3
 sidebar:
   - title: "Teachers"

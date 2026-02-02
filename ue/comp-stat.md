@@ -2,7 +2,7 @@
 layout: single
 title: "Computational Statistics for Signal & Image Processing"
 header:
-  overlay_image: /assets/images/hmc.jpg
+  overlay_image: /assets/images/illustrations/hmc.jpg
   overlay_filter: 0.3
 sidebar:
   - title: "Teacher"

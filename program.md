@@ -1,5 +1,8 @@
 ---
 layout: single
+header:
+  overlay_image: /assets/images/illustrations/ivy-dao-KYeaxGmsC6g-unsplash.jpg
+  overlay_filter: 0.3
 title: "Program"
 toc: true
 toc_sticky: true
