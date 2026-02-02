@@ -21,7 +21,7 @@ The courses focus on methodological foundations and recent developments in these
 fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
-
+Details about each unit are available [here](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
 
 <!-- - Detailed description of the courses are availble in [French](/Description-Formation-Master-EEEA-2023-2024-UE-Francais.pdf) or -->
 <!-- [English](/Description-Formation-Master-EEEA-2023-2024-UE-Anglais-1.pdf). -->
