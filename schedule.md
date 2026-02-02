@@ -18,7 +18,9 @@ The sheets are
 - *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec
 - *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS
 
-The [seminar program](https://centralesupelec-my.sharepoint.com/:w:/g/personal/francois_orieux_centralesupelec_fr/EZze_I-_gHpCvsXfTRSIAvQBtFGiOExGN-YNCysSMKR4Hg?e=COMW1z) for 2024-2025.
+<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?embed=true"
+        height="250px" width="100%" frameborder="0">
+</iframe>
 
 <!-- Also possible with a redirection -->
 <!-- <!DOCTYPE html> -->
