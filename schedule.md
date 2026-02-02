@@ -27,7 +27,7 @@ The sheets are
 
 ## Seminars program
 
-<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?embed=true?themeAppearance=light"
+<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?embed=true?themeAppearance=light?style=singlePage"
         height="400" width="100%" frameborder="0">
 </iframe>
 
@@ -36,6 +36,6 @@ The sheets are
 - [Reglementations, MCC, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
 - [Bookmarks](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/)
 
-<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?embed=true?themeAppearance=light"
+<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?embed=true?themeAppearance=light?style=singlePage"
         height="300" width="100%" frameborder="0">
 </iframe>
