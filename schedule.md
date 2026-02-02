@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "Time schedule"
+header:
+  overlay_image: /assets/images/illustrations/sonja-langford-eIkbSc3SDtI-unsplash.jpg
+  overlay_filter: 0.3
 toc: true
 toc_sticky: true
 ---

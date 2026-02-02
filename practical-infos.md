@@ -1,8 +1,11 @@
 ---
 layout: single
+title: "Back to school and practical Informations"
+header:
+  overlay_image: /assets/images/illustrations/annie-spratt-AFB6S2kibuk-unsplash.jpg
+  overlay_filter: 0.3
 toc: true
 toc_sticky: true
-title: "Back to school and practical Informations"
 ---
 
 ## The back-to-school amphitheatre
