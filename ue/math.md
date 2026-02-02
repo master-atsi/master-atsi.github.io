@@ -1,6 +1,10 @@
 ---
 layout: single
 title: "Mathematical tools for control, signal and image processing"
+header:
+  overlay_image: /assets/images/bozhin-karaivanov-f8kW9cbVzwM-unsplash.jpg
+  overlay_filter: 0.3
+
 sidebar:
   - title: "Teachers"
     text: |
