@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "Numerical computation"
+header:
+  overlay_image: /assets/num-comp-im.jpg
+  overlay_filter: 0.3
 sidebar:
   - title: "Teacher"
     text: "François Orieux"
@@ -17,6 +20,8 @@ support for more advanced use in the rest of the program. Students will learn
 how to use potential of python and the widely used library. The courses suppose
 a minimal knowledge in programming and python language. Teaching is mainly done
 in the form of practical courses to enable students to become fully operational.
+
+
 
 ## Outline
 
