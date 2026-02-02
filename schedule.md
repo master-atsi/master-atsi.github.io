@@ -31,15 +31,10 @@ The sheets are
         height="400" width="100%" frameborder="0">
 </iframe>
 
-## Below and above are accessible here
-
-https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/
-
 ## Reglementation, docs, forms, ...
 
-<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27?embed=true"
-        height="300" width="100%" frameborder="0">
-</iframe>
+- [Reglementations, MCC, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
+- [Bookmarks](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/)
 
 <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?embed=true"
         height="300" width="100%" frameborder="0">
