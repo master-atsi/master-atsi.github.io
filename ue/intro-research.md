@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "Introduction to research"
+header:
+  overlay_image: /assets/images/illustrations/herlambang-tinasih-gusti-3kc_75Rdgyk-unsplash.jpg
+  overlay_filter: 0.3
 sidebar:
   - title: "Head"
     text: |
