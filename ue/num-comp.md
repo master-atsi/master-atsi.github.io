@@ -11,12 +11,12 @@ sidebar:
 ## Course Description
 
 This course address modern python practices and tools for scientific and
-numerical computations. It covers all aspects of the master, from control,
-signal and image processing and statistical learning and serve has a support for
-more advanced use in the rest of the program. Students will learn how to use
-potential of python and the widely used library. The courses suppose a minimal
-knowledge in programming and python language. Teaching is mainly done in the
-form of practical courses.
+practical numerical computations. It covers all aspects of the master, from
+control, signal and image processing and statistical learning and serve has a
+support for more advanced use in the rest of the program. Students will learn
+how to use potential of python and the widely used library. The courses suppose
+a minimal knowledge in programming and python language. Teaching is mainly done
+in the form of practical courses to enable students to become fully operational.
 
 ## Outline
 
