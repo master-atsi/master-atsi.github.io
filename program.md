@@ -8,9 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
-<!-- This new following program starts for the 2025-2026 academic year. -->
-<!-- {: .notice--warning} -->
-
 The M2 ATSI aims to train students with a **coherent program** to address
 academic and industrial topics in the domains of
 - systems and control,
@@ -21,13 +18,7 @@ The courses focus on methodological foundations and recent developments in these
 fields, which intervene directly or indirectly in many disciplines such as
 optics, medicine, robotics, energy, automotive...
 
-Details about each unit are available [here](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
-
-<!-- - Detailed description of the courses are availble in [French](/Description-Formation-Master-EEEA-2023-2024-UE-Francais.pdf) or -->
-<!-- [English](/Description-Formation-Master-EEEA-2023-2024-UE-Anglais-1.pdf). -->
-<!-- - [The skills assessment procedures](/MCCs-2023-2024.pdf). -->
-<!-- - [Regulation fo master degree](/academic-regulations-for-master-degree-2023-2024.pdf) at University Paris-Saclay. -->
-
+Details about each unit are available [here](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27).
 
 ## First Semester
 
