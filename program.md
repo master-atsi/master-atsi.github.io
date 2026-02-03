@@ -28,13 +28,13 @@ control or signal-image.
 
 {% include control.button %}{% include sig.button %}{% include im.button %}{% include stat.button %}
 
-### Bloc 1 — Mandatory courses — Refresher course & introduction to research
+### Bloc 1 — Refresher course & introduction to research — Mandatory courses
 
 - [Introduction to research](/ue/intro-research)
 - [Mathematical tools for control, signal and image processing](/ue/math)
 - [Numerical computation](/ue/num-comp)
 
-### Bloc 2 — Mandatory courses — Core and foundations
+### Bloc 2 — Core and foundations — Mandatory courses
 
 - [Estimation](/ue/estimation)
 - [Optimization](/ue/optimisation)
@@ -49,7 +49,7 @@ control or signal-image.
 
 ## Second Semester
 
-### Bloc 4 — Four elective courses among height — Track
+### Bloc 4 — Track — Four elective courses among height
 
 Students must choose four elective courses among height, in parallel with project work and bibliographic research
 
