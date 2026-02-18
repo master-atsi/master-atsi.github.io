@@ -10,25 +10,7 @@ sidebar:
 
 {% include sig.button %} {% include im.button %} {% include stat.button %}
 
-A large part of signal processing can be seen from the point of view of inversion,
-in the sense that the observations are partly informative on the quantity to be
-estimated and the estimation is also based on physical models. In various
-applications such as astrophysics, biomedical engineering, industrial monitoring
-or remote sensing, the direct use of measurements is not always satisfactory.
-Inversion methods make possible to take into account distortions introduced by
-the measuring devices in order to reconstruct the quantity of interest. This
-course addresses ill posed inverse problems, for which the observed data are
-insufficient to reliably reconstruct the object of interest. Regularization
-techniques are then necessary to solve these difficult problems. We introduce
-two major families of methods. On the one hand variational approach, based on
-the construction and optimization of a regularized cost function and on the
-other Bayesian approach, based on the probabilistic modeling of the object to
-be reconstructed and the errors of model. This latter approach leads to
-unsupervised methods for quantifying uncertainties. The different underlying
-approaches and algorithms will be illustrated on different case studies (TP) such
-as the restoration or reconstruction of signals and images with linear direct
-models or not. Application areas related to these case studies will be biomedical
-engineering, nondestructive testing or image processing in astrophysics.
+A large part of signal processing can be seen from the point of view of inversion, in the sense that the observations are partly informative on the quantity to be estimated and the estimation is also based on physical models. In various applications such as astrophysics, biomedical engineering, industrial monitoring or remote sensing, the direct use of measurements is not always satisfactory. Inversion methods make possible to take into account distortions introduced by the measuring devices in order to reconstruct the quantity of interest. This course addresses ill posed inverse problems, for which the observed data are insufficient to reliably reconstruct the object of interest. Regularization techniques are then necessary to solve these difficult problems. We introduce two major families of methods. On the one hand variational approach, based on the construction and optimization of a regularized cost function and on the other Bayesian approach, based on the probabilistic modeling of the object to be reconstructed and the errors of model. This latter approach leads to unsupervised methods for quantifying uncertainties. The different underlying approaches and algorithms will be illustrated on different case studies (TP) such as the restoration or reconstruction of signals and images with linear direct models or not. Application areas related to these case studies will be biomedical engineering, nondestructive testing or image processing in astrophysics.
 
 ## References
 

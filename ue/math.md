@@ -14,9 +14,7 @@ sidebar:
 
 {% include control.button %} {% include sig.button %} {% include im.button %} {% include stat.button %}
 
-The objective of this course is to allow students to master the mathematical
-foundation necessary to tackle academic or industrial research subjects, in the
-fields of control, signal and image processing.
+The objective of this course is to allow students to master the mathematical foundation necessary to tackle academic or industrial research subjects, in the fields of control, signal and image processing.
 
 ## Optimization and differential equations
 

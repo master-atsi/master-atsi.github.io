@@ -8,17 +8,7 @@ sidebar:
 
 {% include im.button %} {% include stat.button %} {% include cv.button %}
 
-Born in the 1950s with the advent of computers, machine learning has recently
-experienced a remarkable boom thanks to the availability of masses of data,
-great computing power (GPU) and specialized software environments (Deep
-Learning). Machine learning techniques have allowed a significant performance
-gain on classic problems of interpretation of complex data (image
-classification, face recognition, autonomous vehicle driving, speech
-recognition, translation, medical diagnosis, biometrics, etc.). This course
-consists in a general presentation of the main existing machine learning
-techniques, from the most classical to the most recent ones. It puts an emphasis
-on the practical implementation of these methods in various application domains
-through computer labworks and a project.
+Born in the 1950s with the advent of computers, machine learning has recently experienced a remarkable boom thanks to the availability of masses of data, great computing power (GPU) and specialized software environments (Deep Learning). Machine learning techniques have allowed a significant performance gain on classic problems of interpretation of complex data (image classification, face recognition, autonomous vehicle driving, speech recognition, translation, medical diagnosis, biometrics, etc.). This course consists in a general presentation of the main existing machine learning techniques, from the most classical to the most recent ones. It puts an emphasis on the practical implementation of these methods in various application domains through computer labworks and a project.
 
 ## References
 

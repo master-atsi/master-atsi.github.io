@@ -10,14 +10,7 @@ sidebar:
 
 {% include control.button %}
 
-The aim of this course is to provide a solid foundation for the analysis and
-control of multivariable linear systems (MIMO systems: multi-input, multi-
-output), using both state space and transfer function representations. The main
-methods discussed are optimal control and estimation, robustness analysis and
-H-infinity control. The general idea is to provide all the means allowing an
-application on real systems (which can come from very different fields such as
-robotics, optics, automobiles, aeronautics ..., this list not being limiting),
-with an opening on research issues.
+The aim of this course is to provide a solid foundation for the analysis and control of multivariable linear systems (MIMO systems: multi-input, multi- output), using both state space and transfer function representations. The main methods discussed are optimal control and estimation, robustness analysis and H-infinity control. The general idea is to provide all the means allowing an application on real systems (which can come from very different fields such as robotics, optics, automobiles, aeronautics ..., this list not being limiting), with an opening on research issues.
 
 ## References
 

@@ -10,7 +10,6 @@ sidebar:
 
 ## Course objective
 
-
 In modern engineering, making real-time decisions while accounting for constraints, uncertainties, and optimality is a key challenge. Model Predictive Control (MPC) provides a powerful framework to tackle this problem, enabling advanced control strategies in robotics, energy systems, autonomous vehicles, and industrial automation. This course blends theory with practical applications, emphasizing how optimization and robustness shape control performance. By exploring both fundamental principles and cutting-edge formulations, students will gain the skills to design predictive controllers that enhance efficiency, safety, and adaptability in complex engineering systems.
 
 ## Course content

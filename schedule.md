@@ -34,9 +34,10 @@ The sheets are
 ## Reglementation, docs, forms, ...
 
 - [All infos](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/)
-- [Reglementations, MCC, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
-- Documents ⤵
+- [Program, Exam rules, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
+- [Validation, documents, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28)
+<!-- - Documents ⤵ -->
 
-<iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?themeAppearance=light&themeSyncWithOs=false&embed=true&style=singlePage"
-        height="300" width="100%" frameborder="0">
-</iframe>
+<!-- <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?themeAppearance=light&themeSyncWithOs=false&embed=true&style=singlePage" -->
+<!--         height="300" width="100%" frameborder="0"> -->
+<!-- </iframe> -->

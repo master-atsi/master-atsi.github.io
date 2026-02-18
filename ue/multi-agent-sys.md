@@ -10,11 +10,7 @@ sidebar:
 
 ## Course objective
 
-Animal swarms, electric grids, autonomous vehicle formations, interconnected neurons, sensor networks… all these systems share a crucial feature: their overall behavior results from a local interaction among many agents.
-Here, “local” means that each agent typically interacts with its neighbors only. This course aims at providing the basics to both analyze and control such large-scale networks.
-In particular, it provides methodological tools to study interconnection between multiple dynamic agents.
-It addresses two fundamental features of such networks: consensus, in which the states of all agents converge to a common value, and synchronization, in which agents share a coherent behavior (possibly non-static).
-These notions will be illustrated via a selection of case studies.
+Animal swarms, electric grids, autonomous vehicle formations, interconnected neurons, sensor networks… all these systems share a crucial feature: their overall behavior results from a local interaction among many agents. Here, “local” means that each agent typically interacts with its neighbors only. This course aims at providing the basics to both analyze and control such large-scale networks. In particular, it provides methodological tools to study interconnection between multiple dynamic agents. It addresses two fundamental features of such networks: consensus, in which the states of all agents converge to a common value, and synchronization, in which agents share a coherent behavior (possibly non-static). These notions will be illustrated via a selection of case studies.
 
 At the end of the course, students will be able to:
 - Derive graph-based models for multi-agent systems

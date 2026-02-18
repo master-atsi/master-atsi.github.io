@@ -12,10 +12,7 @@ sidebar:
 
 ## Course objective
 
-The first part of this course will present modern statistical methods for data
-analysis, encompassing both their theoretical properties and practical aspects.
-In addition to the lectures, students will gain hands-on experience with the
-methods through exercises (to be defined in R or Python).
+The first part of this course will present modern statistical methods for data analysis, encompassing both their theoretical properties and practical aspects. In addition to the lectures, students will gain hands-on experience with the methods through exercises (to be defined in R or Python).
 
 ## Course content
 
