@@ -8,17 +8,21 @@ toc: true
 toc_sticky: true
 ---
 
-## The back-to-school amphitheatre
+## The 2026—2027 back-to-school amphitheatre
 
 The back-to-school amphitheater will be held on Friday, September 4 2026, morning.
 
-## Location
+## Teaching location
+
+The main location is
 
 Hbar, Building 625 — Rue Joliot Curie, 91400 Orsay, France
 
 <div class="columns is-centered">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.827656044984!2d2.1695057776327134!3d48.70877497131225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f931824c241%3A0xa8e8154fa4634ed9!2s625%20-%20Hbar!5e0!3m2!1sfr!2sfr!4v1695635075316!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+Other lectures take place at IOGS and Telecom-Paris nearby.
 
 ## Contacts
 

@@ -33,9 +33,9 @@ feature_row:
 second and final year of Master degree of Université Paris-Saclay. It aims at
 giving students training to address scientific and R&D topics in the domains
 of
-- systems and control,
-- signal & image processing, and
-- the foundations of machine learning with statistical learning, estimation or optimisation.
+- **systems and control**,
+- **signal & image processing**, and
+- the **foundations of machine learning** with statistical learning, estimation or optimisation.
 
 The back-to-school amphitheater will be held on Friday, September 4, 2026.
 {: .notice--warning}
