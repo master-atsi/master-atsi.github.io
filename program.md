@@ -20,7 +20,7 @@ optics, medicine, robotics, energy, automotive...
 
 Details about each unit are available [here](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27).
 
-If you are a PhD student that wants to be an auditor (guest, non-degree-seeking) to a course, ask to the staff and fill [this form](https://grist.numerique.gouv.fr/o/atsi/forms/6aQXsppHXjjq984GwNCjzL/237).
+If you are a PhD student that wants to be an auditor (guest, non-degree-seeking) to a course, ask to the staff and fill [this form](https://grist.numerique.gouv.fr/o/atsi/forms/6aQXsppHXjjq984GwNCjzL/237) please.
 {: .notice--info}
 
 ## Double degree
