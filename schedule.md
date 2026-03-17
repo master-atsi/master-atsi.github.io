@@ -17,13 +17,13 @@ toc_sticky: true
 <a href="https://master-atsi.github.io/goto-schedule" target="_blank" title="Click to see"><img src="/assets/qr-goto-edt-atsi.png" alt="QR code of ATSI time schedule" style="height:200px;"></a>
 {: refdef}
 
-The sheets are
-- *S1-Sched* : first semester
-- *S2-Sched* : second semester
-- *ER (MCC)* : Exams rules
-- *ATSI-CCR* : Choice rules for plain M2 ATSI and ENS students
-- *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec
-- *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS
+<!-- The sheets are -->
+<!-- - *S1-Sched* : first semester -->
+<!-- - *S2-Sched* : second semester -->
+<!-- - *ER (MCC)* : Exams rules -->
+<!-- - *ATSI-CCR* : Choice rules for plain M2 ATSI and ENS students -->
+<!-- - *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec -->
+<!-- - *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS -->
 
 ## Seminars program
 
