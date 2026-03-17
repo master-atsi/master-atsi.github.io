@@ -27,7 +27,7 @@ Other lectures take place at IOGS and Telecom-Paris nearby.
 ## Contacts
 
 - Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Hugues Mounier](mailto:hugues.mounier@universite-paris-saclay.fr)
-- Secretary: [Emmanuel Ghomsi Ghomsi (interim)](mailto:emmanuel.ghomsi-ghomsi@universite-paris-saclay.fr)
+- Secretary: [Eva Perin](mailto:eva.perin@universite-paris-saclay.fr)
 
 ## Paris-Saclay University
 
