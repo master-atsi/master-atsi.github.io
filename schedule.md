@@ -25,7 +25,7 @@ toc_sticky: true
 <!-- - *ATSI/CS CCR* : Choice rules for students in double degree with CentraleSupélec -->
 <!-- - *ATSI/IOGS CCR* : Choice rules for students in double degree with IOGS -->
 
-## Seminars program
+## [Seminars program](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26)
 
 <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26?themeAppearance=light&themeSyncWithOs=false&embed=true&style=singlePage"
         height="350" width="100%" frameborder="0">
