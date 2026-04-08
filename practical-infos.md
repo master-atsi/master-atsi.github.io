@@ -48,8 +48,11 @@ candidates of the Master to take action well in advance.
 - [Residence permit](https://demarche.numerique.gouv.fr/commencer/accompagnement-ts-upsaclay)
 - [Social Security](https://demarche.numerique.gouv.fr/commencer/accompagnement-cpam-upsaclay)
 - [Housing assistance](https://demarche.numerique.gouv.fr/commencer/accompagnement-caf-upsaclay)
-- [universite-paris-saclay.fr/admission/etudiants-internationaux](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
-- And [international.welcomedesk@universite-paris-saclay.fr](mailto:international.welcomedesk@universite-paris-saclay.fr) [visa.etudiant@universite-paris-saclay.fr](mailto:visa.etudiant@universite-paris-saclay.fr)
+- [International students](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
+- Emails:
+  - [international.welcomedesk@universite-paris-saclay.fr](mailto:international.welcomedesk@universite-paris-saclay.fr)
+  - [visa.etudiant@universite-paris-saclay.fr](mailto:visa.etudiant@universite-paris-saclay.fr)
+
 
 ## Computer
 
