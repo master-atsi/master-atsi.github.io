@@ -42,12 +42,14 @@ candidates of the Master to take action well in advance.
 - [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr)
 
 
-## Visa
+## Visa and assistance
 
-If you need to apply for a Visa, you can find some information here
-
+- [Welcoming International Visitors](https://www.universite-paris-saclay.fr/campus-life/accueil-des-publics-internationaux)
+- [Residence permit](https://demarche.numerique.gouv.fr/commencer/accompagnement-ts-upsaclay)
+- [Social Security](https://demarche.numerique.gouv.fr/commencer/accompagnement-cpam-upsaclay)
+- [Housing assistance](https://demarche.numerique.gouv.fr/commencer/accompagnement-caf-upsaclay)
 - [universite-paris-saclay.fr/admission/etudiants-internationaux](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
-- [universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour](https://www.universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/demarches-administratives/visa-et-titres-de-sejour)
+- And [international.welcomedesk@universite-paris-saclay.fr](mailto:international.welcomedesk@universite-paris-saclay.fr) [visa.etudiant@universite-paris-saclay.fr](mailto:visa.etudiant@universite-paris-saclay.fr)
 
 ## Computer
 
