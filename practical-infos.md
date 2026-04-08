@@ -49,7 +49,7 @@ candidates of the Master to take action well in advance.
 - [Social Security](https://demarche.numerique.gouv.fr/commencer/accompagnement-cpam-upsaclay)
 - [Housing assistance](https://demarche.numerique.gouv.fr/commencer/accompagnement-caf-upsaclay)
 - [International students](https://www.universite-paris-saclay.fr/admission/etudiants-internationaux)
-- Emails:
+- Emails
   - [international.welcomedesk@universite-paris-saclay.fr](mailto:international.welcomedesk@universite-paris-saclay.fr)
   - [visa.etudiant@universite-paris-saclay.fr](mailto:visa.etudiant@universite-paris-saclay.fr)
 
