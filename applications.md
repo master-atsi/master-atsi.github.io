@@ -32,9 +32,6 @@ year.
 Important information regarding [registration fees](https://www.universite-paris-saclay.fr/admission/droits-dinscription) for prospective students outside the EU.
 {: .notice--warning}
 
-Additional [practical infos](../practical-infos/).
-{: .notice--info}
-
 ## Required documents
 
 - Last year's ranking _if available_
