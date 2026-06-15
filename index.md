@@ -49,7 +49,7 @@ or applied. After graduating from ATSI, students can continue with doctoral
 studies in academic or industrial environments or pursue a job in industrial
 research and development.
 
-[⇒ Applications](./applications/)
+⇒ [Applications](./applications/)
 {: .notice--info}
 
 # Paris-Saclay University
@@ -63,7 +63,7 @@ of French scientific research capacity.
 # Contacts
 
 <!-- - Program chairs: François Orieux and Hugues Mounier ([email](email:master2rec-atsi.sciences@universite-paris-saclay.fr)) -->
-- Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Hugues Mounier](mailto:hugues.mounier@universite-paris-saclay.fr)
+- Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Giorgio Valmorbida](mailto:giorgio.valmorbida@centralesupelec.fr)
 - Secretary: [Eva Perin](mailto:eva.perin@universite-paris-saclay.fr)
 - [Institutional webpage]( https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images)
 
