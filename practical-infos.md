@@ -32,15 +32,16 @@ Other lectures take place at IOGS and Telecom-Paris nearby.
 ## Paris-Saclay University
 
 - [Numerical services](https://portail.universite-paris-saclay.fr/services-numeriques/) of Paris-Saclay University.
+- [Diploma Pickup](https://www.universite-paris-saclay.fr/formation/delivrance-et-retrait-des-diplomes)
 
-## Housing
+## Housing, scholarships, and financial aid
 
 Finding an accommodation in the Paris area may take some time, so we advise
 candidates of the Master to take action well in advance.
 
 - [universite-paris-saclay.fr/vie-de-campus/logement](https://www.universite-paris-saclay.fr/vie-de-campus/logement)
 - [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr)
-
+- [scholarships, and financial aid](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-et-aides-etudiantes)
 
 ## Visa and assistance
 

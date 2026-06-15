@@ -17,6 +17,12 @@ Application must be made through the
 [website](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay)
 of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay) .
 
+We will not accept applications or resumes submitted via email. To apply, please
+use the Paris-Saclay University application portal:
+[inception.universite-paris-saclay.f](https://inception.universite-paris-saclay.fr).
+[Guide](https://www.sciences.universite-paris-saclay.fr/admission/inscriptions-et-reinscriptions-licences-masters-et-cumulatifs)
+on registration.
+
 If you want to apply for the first year of a Master program, check the [Master
 in Electrical Engineering (M1
 E3A)](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique#mention)
@@ -25,6 +31,9 @@ year.
 
 Important information regarding [registration fees](https://www.universite-paris-saclay.fr/admission/droits-dinscription) for prospective students outside the EU.
 {: .notice--warning}
+
+More [practical infos](./practical-infos/).
+{: .notice--info}
 
 ## Required documents
 

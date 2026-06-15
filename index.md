@@ -49,6 +49,9 @@ or applied. After graduating from ATSI, students can continue with doctoral
 studies in academic or industrial environments or pursue a job in industrial
 research and development.
 
+[⇒ Applications](./applications/)
+{: .notice--info}
+
 # Paris-Saclay University
 
 Paris-Saclay University is a French federal research university, integrating
