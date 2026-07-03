@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-## Schedule
+## Schedule (single full page)
 
 <!-- qrencode -o atsi-schedule.png --foreground=0000FF "http://master-atsi.github.io/schedule" -->
 
@@ -36,6 +36,7 @@ toc_sticky: true
 - [All infos](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/)
 - [Program, Exam rules, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27)
 - [Validation, documents, ...](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28)
+
 <!-- - Documents ⤵ -->
 
 <!-- <iframe src="https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/28?themeAppearance=light&themeSyncWithOs=false&embed=true&style=singlePage" -->
