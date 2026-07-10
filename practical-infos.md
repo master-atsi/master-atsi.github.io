@@ -29,6 +29,10 @@ Other lectures take place at IOGS and Telecom-Paris nearby.
 - Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Giorgio Valmorbida](mailto:giorgio.valmorbida@centralesupelec.fr)
 - Secretary: [Eva Perin](mailto:eva.perin@universite-paris-saclay.fr)
 
+## Issuing and Collecting Diplomas
+
+[To pick up your diploma](https://www.universite-paris-saclay.fr/formation/delivrance-et-retrait-des-diplomes), you must contact the scholarships office of the “Faculté des Sciences d'Orsay”
+
 ## Paris-Saclay University
 
 - [Numerical services](https://portail.universite-paris-saclay.fr/services-numeriques/) of Paris-Saclay University.
