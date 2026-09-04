@@ -64,7 +64,7 @@ of French scientific research capacity.
 
 <!-- - Program chairs: François Orieux and Hugues Mounier ([email](email:master2rec-atsi.sciences@universite-paris-saclay.fr)) -->
 - Program chairs: [François Orieux](mailto:francois.orieux@universite-paris-saclay.fr) and [Giorgio Valmorbida](mailto:giorgio.valmorbida@centralesupelec.fr)
-- Secretary: [Eva Perin](mailto:eva.perin@universite-paris-saclay.fr)
+- Secretary: [Eugenie Kipanga](mailto:eugenie.kipanga@universite-paris-saclay.fr)
 - [Institutional webpage]( https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images)
 
 # Supporting institutions
