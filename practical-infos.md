@@ -46,6 +46,7 @@ candidates of the Master to take action well in advance.
 - [universite-paris-saclay.fr/vie-de-campus/logement](https://www.universite-paris-saclay.fr/vie-de-campus/logement)
 - [trouverunlogement.lescrous.fr](https://trouverunlogement.lescrous.fr)
 - [scholarships, and financial aid](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-et-aides-etudiantes)
+- [Email contact](mailto:referent-logement.sciences@universite-paris-saclay.fr ) for Faculty of Science
 
 ## Visa and assistance
 
