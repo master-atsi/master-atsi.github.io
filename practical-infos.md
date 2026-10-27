@@ -66,5 +66,5 @@ We recommend that you bring your own personal computer. Computer rooms are also 
 
 ## Others
 
-- [Science acceuil](https://www.science-accueil.org/)
+- [Science accueil](https://www.science-accueil.org/)
 - [Campus France](https://www.campusfrance.org/fr)

@@ -16,13 +16,13 @@ topics are addressed in the following course units.
 ## First semester
 
 
-- [Computational statistics](/ue/comp-stat) {% include sig.button %} {% include im.button %}{% include stat.button -%}
-- [Signal processing and imaging systems](/ue/sig-proc-im-sys) {% include sig.button %} {% include im.button -%}
-- [Scientific computing with Python](/ue/scientific-python)
+- [Computational statistics](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r5.c26) {% include sig.button %} {% include im.button %}{% include stat.button -%}
+- [Signal processing and imaging systems](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r7.c26) {% include sig.button %} {% include im.button -%}
+- [Numerical computation](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r18.c26)
 
 ## Second semester
 
-- [Advanced methods in image processing](/ue/adv-im) {% include im.button %} {% include stat.button -%}
-- [Inverse problems](/ue/inv-problems) {% include sig.button %} {% include im.button %} {% include stat.button -%}
-- [Machine Learning](/ue/machine-learning) {% include im.button %} {% include stat.button -%}
-- [Medical imaging](/ue/medical-im) {% include im.button %} {% include cv.button -%}
+- [Advanced methods in image processing](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r14.c26) {% include im.button %} {% include stat.button -%}
+- [Inverse problems](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r15.c26) {% include sig.button %} {% include im.button %} {% include stat.button -%}
+- [Machine Learning](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r10.c26) {% include im.button %} {% include stat.button -%}
+- [Medical imaging](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r13.c26) {% include im.button %} {% include cv.button -%}

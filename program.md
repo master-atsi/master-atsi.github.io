@@ -68,7 +68,7 @@ Two elective courses among four
 
 ### Bloc 4 — Personalisation
 
-Students must choose four elective courses among height, in parallel with project work and bibliographic research
+Students must choose four elective courses among heigth, in parallel with project work and bibliographic research
 
 - [Advanced methods in image processing](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r14.c26) {% include im.button %} {% include stat.button -%}
 - [Control and observation for nonlinear systems](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27#a1.s209.r12.c26) {% include control.button -%}

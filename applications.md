@@ -10,7 +10,7 @@ ATSI is open to students with a first-year master degree in electrical
 engineering, data science, applied mathematics or in their last year at
 engineering school, see
 [requirements(en)](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-control-signal-and-image-processing#modalites)
-[[francais]((https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images#modalites))].
+[[francais]((https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images#modalites)].
 
 
 Application must be made through the
@@ -19,7 +19,7 @@ of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/admission/e
 
 We will not accept applications or resumes submitted via email. To apply, please
 use the Paris-Saclay University application portal:
-[inception.universite-paris-saclay.f](https://inception.universite-paris-saclay.fr).
+[inception.universite-paris-saclay.fr](https://inception.universite-paris-saclay.fr).
 [Guide](https://www.sciences.universite-paris-saclay.fr/admission/inscriptions-et-reinscriptions-licences-masters-et-cumulatifs)
 on registration.
 

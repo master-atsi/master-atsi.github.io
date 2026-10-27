@@ -1,0 +1,44 @@
+# Master ATSI
+
+> ATSI (Automatique, Traitement du Signal et des Images) is the second and final year (M2) of a Master's degree at Université Paris-Saclay, France. It trains students for research and R&D in systems and control, signal and image processing, and the foundations of machine learning (statistical learning, estimation, optimisation).
+
+Key facts:
+
+- Level: second year of Master (M2), part of the Master in Electrical Engineering (mention E3A — Électronique, Énergie Électrique, Automatique) of Université Paris-Saclay. Students can enter the first year (M1 E3A) and then apply to ATSI.
+- Supporting institutions: Université Paris-Saclay, École Normale Supérieure Paris-Saclay, CentraleSupélec, Institut d'Optique Graduate School (IOGS). Labelled AI training program by the DATAIA Institute.
+- Double degree with CentraleSupélec, IOGS and Polytech Paris-Saclay.
+- Structure: first semester of core courses (refresher, estimation, optimisation, statistical learning and reinforcement learning, plus specialisation electives); second semester of four electives among eight, project and bibliographic work, then a research internship of at least 4 months (April–August) in academia or industry.
+- Language: part of the training may be given in English. Foreign students must provide a B2 language certificate.
+- Location: Hbar, Building 625, Rue Joliot Curie, 91400 Orsay, France (some lectures at IOGS and Télécom Paris nearby).
+- Applications for 2026–2027 are open from March 1 to July 20, 2026, only through the Université Paris-Saclay portal (Inception). Applications by email are not accepted.
+- Back-to-school meeting: Friday, September 4, 2026, morning.
+- Outcomes: PhD in academic or industrial labs (Onera, Thales, Airbus, CNES, Renault…) or R&D jobs in industry (CEA, GE Healthcare, Thales, Safran, Saint-Gobain…).
+- Contacts: program chairs François Orieux (francois.orieux@universite-paris-saclay.fr) and Giorgio Valmorbida (giorgio.valmorbida@centralesupelec.fr); secretary Eugenie Kipanga (eugenie.kipanga@universite-paris-saclay.fr).
+
+## Main pages
+
+- [Home](https://master-atsi.github.io/): Overview of the master, contacts and supporting institutions
+- [Program](https://master-atsi.github.io/program/): Full curriculum by semester and block, electives, double degree and internship
+- [Applications](https://master-atsi.github.io/applications/): Eligibility, application portal, required documents, scholarships and grants
+- [Practical information](https://master-atsi.github.io/practical-infos/): Back-to-school date, teaching location, housing, visa, diplomas
+- [Time schedule](https://master-atsi.github.io/schedule/): Timetable, seminars program, regulations and forms
+
+## Tracks
+
+- [Systems and Control](https://master-atsi.github.io/sys-control/): Courses on multivariable linear systems, nonlinear systems, hybrid systems, model predictive control, multi-agent systems
+- [Signal and Image Processing](https://master-atsi.github.io/signal-image-proc/): Courses on signal modeling, restoration, reconstruction, inverse problems, medical imaging, computer vision
+- [Statistical Learning](https://master-atsi.github.io/stat-learning/): Courses on estimation, optimisation, statistical and reinforcement learning, computational statistics, machine learning
+
+## Official resources
+
+- [Course unit details](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/27): Syllabus of each course unit, exam rules
+- [Institutional page (English)](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-control-signal-and-image-processing): Official Université Paris-Saclay description and admission requirements
+- [Institutional page (French)](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-automatique-traitement-du-signal-et-des-images): Official description in French
+- [How to apply](https://www.universite-paris-saclay.fr/admission/etre-candidat-un-master-paris-saclay): Université Paris-Saclay master application procedure
+
+## Optional
+
+- [Post graduation](https://master-atsi.github.io/post-graduation/): Career outcomes of former students and alumni LinkedIn group
+- [Proposals](https://master-atsi.github.io/proposals/): How to propose an internship, PhD thesis, seminar or project
+- [Seminars program](https://grist.numerique.gouv.fr/o/atsi/rmrtsDFMHjjc/ATSI/p/26): List of research seminars of the current year
+- [Paris-Saclay scholarships](https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master): International Master's Scholarship Programme
